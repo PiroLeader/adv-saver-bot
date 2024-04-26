@@ -12,4 +12,3 @@ python-decouple
 requests
 speedtest-cli
 pymongo
-logging
