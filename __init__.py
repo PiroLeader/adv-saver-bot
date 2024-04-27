@@ -18,7 +18,7 @@ logging.getLogger("telethon").setLevel(logging.WARNING)
 API_ID = "18429621" #config("API_ID", default=None, cast=int)
 API_HASH = "2034b81303744d1dd2c7ffc02e21cfe2" #config("API_HASH", default=None)
 BOT_TOKEN = "6919931089:AAEf3J_XJqVq019hzlxd6eCwHvzpOdrnjXA" #config("BOT_TOKEN", default=None)
-SESSION = "AQEZNrUAgwzGUEXbTerKwYugN_pG1InjQWyiEULb5z7XHdOfb5CtWAr3QyIsuG9Ma9IazV7K3I5NJRdybdgDhTscd3qxcxQZKhZ17v31ksOiOEh4YSUovFnw8-uv_dbzkwimLEk2QYwL3ZP6hrZoy_BC4xkuvuxfltuz14CRyJf15Ob8QBsshh1QFRZzjJMPKsO6jW67IpKriiL0mRIxk7bjkAq6OTp2Yah_yPOJYBt2ST5jq3868gitzr7MEV7vkhz4L9x496dvgCN0cD3PM9HA2veaZXxJoKKwdAq_N25c1QGTNfoQo5VfeCTvXMwCZZXqGhWL5xOLUf6ESAMRk9HL5qSS7AAAAAFHC6iRAA" #config("SESSION", default=None)
+SESSION = "" #config("SESSION", default=None)
 FORCESUB = "TheNostalgiacBro" #config("FORCESUB", default=None)
 AUTH = "5486913681" #config("AUTH", default=None)
 SUDO_USERS = []
